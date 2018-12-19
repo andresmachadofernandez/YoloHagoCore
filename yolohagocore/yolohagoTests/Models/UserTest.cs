@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Linq;
 using Xunit;
-using YoloHagoCore.Models;
+using yolohago.Models;
 
-
-namespace YoloHagoTests
+namespace yolohagoTests
 {
     public class UserTest
     {
